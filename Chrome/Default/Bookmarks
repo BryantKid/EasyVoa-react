@@ -1,0 +1,39 @@
+{
+   "checksum": "70bc2b138af85e6367edba98d9052e65",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13203926982815239",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13203926982815325"
+            },
+            "name": "BR_YEZZYBYPASS",
+            "type": "url",
+            "url": "http://yeezysupply.com/"
+         } ],
+         "date_added": "13203926965543594",
+         "date_modified": "13203926982815239",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13203926965543604",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13203926965543607",
+         "date_modified": "0",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
